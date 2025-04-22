@@ -1,0 +1,12 @@
+{
+  "name": "api_ticket_suporte",
+  "version": "1.0.0",
+  "description": "API para gerenciar Tickets de Suporte.",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Rodrigo Martins",
+  "license": "ISC"
+}
